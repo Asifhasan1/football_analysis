@@ -7,3 +7,4 @@ print(results[0])
 print('===============================')
 for box in results[0].boxes:
     print(box)
+ 
